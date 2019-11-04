@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="ctf">Celsius to Fahrenheit</string>
+    <string name="ftc">Fahrenheit to Celsius</string>
+</resources>
