@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="name">Enter Your Name</string>
+    <string name="add">Add</string>
+</resources>
