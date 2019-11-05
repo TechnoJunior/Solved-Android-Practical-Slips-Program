@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Animation</string>
+    <string name="expand">Expand</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="logo">Logo</string>
+    <string name="image_animation">Simple Animation</string>
+    <string name="shrink">Shrink</string>
+</resources>
