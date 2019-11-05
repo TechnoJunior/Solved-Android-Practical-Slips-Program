@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON using Volley Library</string>
+    <string name="parse">Parse</string>
+</resources>
